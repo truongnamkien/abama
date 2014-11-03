@@ -1,0 +1,392 @@
+.ct_news {
+    clear:both;
+}
+.ct_news .hotnews {
+    display: block;
+    height: 706px;
+    margin-bottom: 15px;
+    overflow: hidden;
+    width: 1170px;
+    background:#FFF;
+}
+.new_detail {
+    display: block;
+    margin-bottom: 45px;
+    overflow: hidden;
+    width: 1170px;
+    background:#FFF;
+    text-align:justify;
+}
+.new_detail h1 {
+    color: #fe8a03;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 28px;
+    margin-top:20px;
+    padding: 12px 0;
+    text-transform: uppercase;
+    font-family: My_Font;}
+.ct_news .hotnews .news_l {
+    width:502px;
+    height:706px;
+    float:left;
+    overflow:hidden;	
+    border:1px solid #CCC;
+    background:#fe8a03;
+    color:#FFF;
+}
+.news_l div {
+    padding:5px 8px;
+    font-size: 18px;
+    font-family: My_Font;
+    line-height: 24px;
+}
+.news_l .title {
+
+}
+.news_l .title a {
+    color:#FFF;
+    font-size:22px;
+    font-weight:bold;
+    text-transform:uppercase;
+    font-family:My_Font;
+    line-height:29px;
+
+}
+.news_l .desc {
+
+}
+.news_l .more > a {
+    padding:12px 0px;
+}
+.news_l .more {
+    margin:8px 0px !important;
+}
+.news_l .more span {
+    background: none repeat scroll 0 0 #cccccc;
+    border-radius: 4px;
+    color: #FFF;
+    font-weight: bold;
+    padding: 5px 10px 5px 8px;
+    font-size:13px;
+    text-transform: uppercase;
+    font-family:My_Font;
+}
+.ct_news .hotnews .news_r {
+    width:644px;
+    float:right;
+    overflow:hidden;
+}
+.news_r .r1 {
+    height:345px;
+    border:1px solid #CCC;
+}
+.news_r .r1 a > img {
+    float:left;
+    width:344px;
+}
+.news_r .r1 .ctdiv {
+    float: right;
+    padding: 10px 0;
+    width: 286px;
+}
+.news_r .r1 .ctdiv a {
+    color: #fe8a03;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 29px;
+    padding: 12px 0;
+    text-transform: uppercase;
+    font-family:My_Font;
+}
+.news_r .r1 .ctdiv .desc {
+    padding:20px 0 0;
+    font-size: 18px;
+    font-family: My_Font;
+    line-height: 24px;
+}
+.news_r .r1 .ctdiv .more {
+    padding:8px 0;
+}
+.news_r .r1 .ctdiv .more span {
+    background: none repeat scroll 0 0 #cccccc;
+    border-radius: 4px;
+    color: #FFF;
+    font-weight: bold;
+    padding: 5px 10px 5px 8px;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-family:My_Font;
+}
+.news_r .r2 {
+    clear:both;
+    height:345px;
+    margin-top:12px;
+    border:1px solid #CCC;
+}
+.news_r .r2 a > img {
+    float:left;
+    width:344px;
+}
+.news_r .r2 .ctdiv {
+    float: right;
+    padding: 10px 0;
+    width: 286px;
+}
+.icon_detail{ padding:2px 0px 2px 8px; width:7px; height:7px;}
+.news_r .r2 .ctdiv a {
+    color: #fe8a03;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 29px;
+    padding: 12px 0;
+    text-transform: uppercase;
+    font-family:My_Font;
+}
+.news_r .r2 .ctdiv .desc {
+    padding: 20px 0 0;
+    font-size: 18px;
+    font-family: My_Font;
+    line-height: 24px;
+}
+.news_r .r2 .ctdiv .more {
+    padding:8px 0;
+}
+.news_r .r2 .ctdiv .more span {
+    background: none repeat scroll 0 0 #cccccc;
+    border-radius: 4px;
+    color: #FFF;
+    font-weight: bold;
+    padding: 5px 10px 5px 8px;
+    font-size: 13px;
+    text-transform: uppercase;
+    font-family:My_Font;
+
+}
+/*danh sĂ¡ch 3cá»™t*/
+.grid_3 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    clear: both;
+    height: 620px;
+    overflow: hidden;
+    padding: 12px 0;
+    width: 1170px;
+    margin-bottom:20px;
+}
+.grid_3 .wrap {
+    background:#FFF;
+    height:620px;
+    width:1170px;
+}
+.grid_3 .wrap .col {
+    float: left;
+    margin: 0 13px;
+    width: 362px;
+
+}
+.grid_3 .wrap .col a >  img {
+    display: block;
+    margin-bottom: 12px;
+    border:1px solid #ccc;
+}
+.grid_3 .wrap .col a {
+    color: #fe8a03;
+    display: block;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 29px;
+    padding: 0 0 8px;
+    text-transform: uppercase;
+    font-family:My_Font;
+}
+.grid_3 .wrap .col .desc {
+    padding: 5px 0;
+    font-size: 18px;
+    font-family: My_Font;
+    line-height: 24px;
+}
+.grid_3 .wrap .col .more {
+    padding: 12px 0;
+}
+.grid_3 .wrap .col .more span {
+    background: none repeat scroll 0 0 #cccccc;
+    border-radius: 4px;
+    color: #FFF;
+    font-weight: bold;
+    padding: 5px 10px 5px 8px;
+    font-size:13px;
+    text-transform: uppercase;
+    font-family:My_Font;
+}
+.grid_4 {
+    background: none repeat scroll 0 0 #FFFFFF;
+    clear: both;
+    height: 294px;
+    overflow: hidden;
+    padding: 12px 22px;
+}
+.grid_4 img {
+    float:left;
+    display:block;
+}
+.grid_4 .expand {
+    float:right;
+    width:360px;
+}
+.grid_4 .expand a {
+    color: #fe8a03;
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 28px;
+    padding: 0 0 8px;
+    text-transform: uppercase;
+}
+.grid_4 .expand desc {
+    padding: 5px 0;
+}
+.grid_4 .expand .more {
+    padding: 12px 0;
+}
+.grid_4 .expand .more span {
+    background: none repeat scroll 0 0 #fe8a03;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-weight: bold;
+    padding: 3px 15px;
+    text-transform: uppercase;
+    font-family:My_Font;
+}
+/*.news detail*/
+.news_detail {
+    width:100%;
+    background:#FFF;
+    clear:both;
+}
+.news_detail .news {
+    padding:15px;
+}
+.news_detail .newsl a {
+    color: #fe8a03;
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 28px;
+    padding: 22px 20px 8px;
+    text-transform: uppercase;
+}
+.news_detail .newsl .desc {
+    padding: 20px;
+    text-align: justify;
+}
+.news_detail .newsl .desc img {
+    margin:10px;
+}
+.news_detail .newsl .author {
+    font-weight: bold;
+    padding: 5px 20px;
+    text-align: right;
+    clear:both;
+}
+
+.listbrand {
+    height: 55px;
+    padding: 5px 0;
+    width: 750px;
+    overflow:hidden;
+    background:#FFF;
+    margin-bottom:15px;
+    margin:0 auto;
+}
+.listbrand ul {
+    display:block;
+    height: 55px;
+    list-style:none;
+}
+.listbrand li {
+    float: left;
+    margin: 6px 20px;
+}
+/*** banners top slider **/
+
+.slider-wrapper{width:906px; height:320px;position:relative;}
+.dev7-caroufredsel-wrapper{
+    width:906px; height:320px;position:relative;
+}
+.dev7-caroufredsel-carousel{
+    width:906px; height:320px;
+}
+.dev7-caroufredsel-carousel div{
+    width:906px; height:320px; display:block
+}
+.dev7-caroufredsel-carousel a{display: block;
+                              float: left;width:906px; height:320px;}
+.dev7-caroufredsel-carousel img {
+    display: block;
+    float: left;width:906px; height:320px;
+}
+
+.dev7-carousel-caption {
+    float: left;
+    clear: both;
+}
+
+.dev7-clearfix {
+    float: none;
+    clear: both;
+}
+
+.dev7-caroufredsel-prev { float: left;
+                          background: url(images/arrows_white_new3.png) 0px 0px no-repeat;
+                          top: 124px;
+                          position: absolute;
+                          height: 70px;
+                          width: 60px;
+}
+.dev7-caroufredsel-next { float: right; }
+.dev7-caroufredsel-pag { text-align: center; }
+.dev7-caroufredsel-prev,
+.dev7-caroufredsel-next,
+.dev7-caroufredsel-pag { position: absolute;top: 300px;right: 10px; }
+.dev7-caroufredsel-pag a.selected >span {
+    background: url(images/icon_bullets_active.png) 0px 0px no-repeat;
+    width: 12px;
+    height: 12px;
+    padding: 5px;
+    text-decoration: none;
+    text-indent: -999px;
+    display:inline-block;
+    overflow:hidden;
+}
+.dev7-caroufredsel-pag a >span {
+    background: url(images/icon_bullets.png) 0px 0px no-repeat;
+    width: 12px;
+    height: 12px;
+    padding: 5px;
+    overflow:hidden;
+    text-decoration: none;
+    text-indent: -999px;display:inline-block;
+}
+
+.ct_news a {
+    color: #fe8a03;
+}
+.ct_news a:hover {
+    color: #fe8a03;
+}
+
+.ct_news ul, .ct_news ol, .ct_news p { margin-bottom: 20px;}
+.ct_news ul { list-style-type: disc; }
+.ct_news ol { list-style: decimal; }
+.ct_news ul, .ct_news ol, 
+.ct_news ul.square, 
+.ct_news ul.circle, 
+.ct_news ul.disc { margin-left: 30px; }
+.ct_news ul.square { list-style: square outside; }
+.ct_news ul.circle { list-style: circle outside; }
+.ct_news ul.disc { list-style: disc outside; }
+.ct_news ul ul, .ct_news ul ol,
+.ct_news ol ol, .ct_news ol ul { margin: 4px 0 5px 30px; }
+.ct_news ul ul li, .ct_news ul ol li,
+.ct_news ol ol li, .ct_news ol ul li { margin-bottom: 6px; }
+.ct_news li { margin-bottom: 12px; }

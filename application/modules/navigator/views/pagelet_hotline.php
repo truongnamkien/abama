@@ -1,0 +1,1 @@
+<?php echo lang('static_content_hotline') . ': ' . $mobile; ?>

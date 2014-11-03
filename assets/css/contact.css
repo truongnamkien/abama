@@ -1,0 +1,123 @@
+.contact_us{margin:20px auto 0px; background:#fff; padding:0px 20px 0px 0px; width:1150px; text-align:justify; }
+/*************** contact *******************/
+.contact_info{ background:#e1e1e1; width:100%; height:220px; margin:0 auto; clear:both}
+.contact_info h1{ text-align:center; text-transform:uppercase; font-size:24px; color:#fff; padding-top:30px; font-weight:800}
+.contact_info .info { float:left; width:31%; padding:20px 10px 10px; height:190px; text-align: center; }
+.contact_info .info p, .contact_info .info a{ color:#4e4e4e; font-family:My_Font}
+.contact_info .info p.contact_add{ color:#4e4e4e; font-family:My_Font; text-align:center}
+
+.contact_info .info a:hover {
+    color:#fe8a03;
+}
+
+.contact_info .info .first{ color:#4e4e4e; }
+.contact_us{ min-height:523px;}
+.contact_note{ width:560px; border-right:1px solid #ccc; height:523px;  background:url(images/bg_contact_send.jpg) right bottom no-repeat; float:left}
+.contact_note h1{ color:#fe8a03; font-size:33px; padding-top:20px; padding-left:0px; font-family:My_Font;}
+.contact_note div{ width:245px; padding-top:30px; padding-left:0px;}
+.contact_note > div > h2{ font-size:17px; font-weight:100; font-family:My_Font; line-height:30px; text-align:left}
+.contact_form{ width:560px; float:right}
+.loading_page{ background:url(images/LoadingPage.gif) 50px 0 no-repeat; z-index:1000;}
+.info_main{ width:1170px; margin:0 auto; background:#e1e1e1}
+.frm_contact .ct_table{
+    display: table;
+}
+.frm_contact .ct_row{
+    display: table-row;
+    height: 40px;
+}
+.frm_contact .ct_col{
+    display: table-cell;
+    vertical-align: top;
+    position:relative;
+}
+.frm_contact .label {
+    display: block;
+    float: left;
+    margin: 0 18px 0 0;
+    padding: 2px 0 0;
+    text-align: right;
+    width: 150px;
+    font-size:16px;
+    color: #444;
+    font-family:My_Font;
+    font-size: 15px;
+}
+.frm_contact .control {
+    width: 348px
+}
+.frm_contact input[type=text] {
+    margin: 0 10px 0 0;
+    padding: 5px;
+    height:26px;
+    border:1px solid #cccccc;
+}
+.frm_contact textarea{
+    width:350px; 
+    padding: 5px;
+    float:left; 
+    height:180px;
+    border:1px solid #cccccc;
+}
+.frm_contact .contact_info{
+    margin: 20px 0px;
+}
+.frm_contact .contact_info p{
+    color: #8D5620;
+    font-family: UTM Swiss Condensed;
+    font-size: 14px;
+}
+.w350{ width:350px;}
+.required{ color:#fe8a03}
+#btnSend{ padding:10px 20px; background:#fe8a03; border:none; color:#fff; text-transform:uppercase; font-size:16px; margin-top:20px; cursor:pointer }
+#btnReset{ padding:10px 20px; background:#fe8a03; border:none; color:#fff; text-transform:uppercase; font-size:16px;margin-top:20px;cursor:pointer }
+.btn_loading{ width:300px; height:300px; background:url(images/LoadingPage.gif) 50px 50px no-repeat}
+#siimage{ position:absolute; }
+.maincontent {
+    padding-bottom: 0px;
+}
+a.img_tel{ 
+    width:120px; height:120px; 
+    background:url(images/img_tel.png) 0 0 no-repeat;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+a.img_tel:hover{ 
+    width:120px; height:120px; 
+    background:url(images/img_tel_hover.png) 0 0 no-repeat;
+    display: block;
+}
+a.img_email{ 
+    width:120px; height:120px; 
+    background:url(images/img_email.png) 0 0 no-repeat;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+a.img_email:hover{ 
+    width:120px; height:120px; 
+    background:url(images/img_email_hover.png) 0 0 no-repeat;
+    display: block;
+}
+a.img_address{ 
+    width:120px; height:120px; 
+    background:url(images/img_address.png) 0 0 no-repeat;
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+a.img_address:hover{ 
+    width:120px; height:120px; 
+    background:url(images/img_address_hover.png) 0 0 no-repeat;
+    display: block;
+}
+.bottom .mnfooter{ background:#fff !important}
+.menu_footer {
+    width: 1170px;
+    margin: 0 auto;
+    height: 50px;
+    background:#fff !important
+}
+
+/*** End Contact **/

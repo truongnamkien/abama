@@ -1,0 +1,97 @@
+.listproduct {}
+.listproduct .primg {
+    float: left;
+    height: 370px;
+    text-align: center;
+    width: 40%;
+}
+.listproduct .primg .img {
+}
+.listproduct .primg .prname {
+    width:250px;
+    margin:20px auto;
+    text-align:left;
+}
+.listproduct .primg .prname span{
+    font-weight:bold;
+}
+.listproduct .prdetail {
+    float: right;
+    min-height: 370px;
+    width: 59%;
+}
+.listproduct .prdetail .prdesc {
+    width:85%;
+    margin: auto;
+    margin-bottom: 10px;
+    min-height:232px;
+}
+.listproduct .prdetail .prdesc h1 {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 3px;
+    padding: 8px 12px;
+    text-align: left;
+    text-transform: uppercase;
+}
+.listproduct .prdetail .prdesc div.product_desc {
+    border:1px solid #CCC;
+    padding: 12px;
+    text-align:left;
+    height:232px;
+    width: 428px;
+    overflow: auto;
+}
+.listproduct .prdetail .prdesc div h3 {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.listpro {
+    clear: both;
+    margin-top: 15px;
+    width: 905px;
+    height:280px;
+    position:relative;
+}
+
+.listpro .cate {
+    float: left;
+    margin: 0 10px 0 0;
+    width: 200px;
+}
+
+.listpro .cate a{
+    color: #444444;
+    font-weight: bold;
+    padding: 8px 12px;
+}
+
+.listpro .cate h1 a > p{
+    color: #444444;
+    font-weight: bold;
+}
+.listpro .cate .catimg {
+    border: 1px solid #CCCCCC;
+    height: 130px;
+    margin-bottom: 5px;
+    overflow: hidden;
+    padding: 15px 0;
+    text-align: center;
+}
+.prdesc ul {
+    padding:inherit !important;
+}
+#detail_button {
+    width: 350px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.listproduct .facebook_button {
+    margin-left: 315px;
+}
+.list_photo {
+    height: 70px;
+}
