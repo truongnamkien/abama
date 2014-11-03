@@ -1,8 +1,8 @@
 <table style="font-family:Arial, Helvetica, sans-serif;margin:0px!important;padding:0px!important;border:0px!important;outline:0px;" align="center" border="0" width="100%" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
-            <td colspan="3" align="center" bgcolor="#FFA945">
-                <table style="color:#FFF;font-size:10px;border-top:3px solid #FFA945;border-bottom:2px solid #FFA945;" border="0" width="600" cellpadding="0" cellspacing="0">
+            <td colspan="3" align="center" bgcolor="#F79238">
+                <table style="color:#FFF;font-size:10px;border-top:3px solid #F79238;border-bottom:2px solid #F79238;" border="0" width="600" cellpadding="0" cellspacing="0">
                     <tbody>
                         <tr>
                             <td align="center">
@@ -72,7 +72,7 @@
             <td height="10"></td>
         </tr>
         <tr>
-            <td colspan="3" style="background:#FFA945;color:#fff;">
+            <td colspan="3" style="background:#F79238;color:#fff;">
                 <table border="0" width="100%" cellpadding="0" cellspacing="0">
                     <tbody>
                         <tr>
