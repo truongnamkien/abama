@@ -7,13 +7,13 @@
 .contact_info .info p.contact_add{ color:#4e4e4e; font-family:My_Font; text-align:center}
 
 .contact_info .info a:hover {
-    color:#fe8a03;
+    color:#F36F21;
 }
 
 .contact_info .info .first{ color:#4e4e4e; }
 .contact_us{ min-height:523px;}
 .contact_note{ width:560px; border-right:1px solid #ccc; height:523px;  background:url(images/bg_contact_send.jpg) right bottom no-repeat; float:left}
-.contact_note h1{ color:#fe8a03; font-size:33px; padding-top:20px; padding-left:0px; font-family:My_Font;}
+.contact_note h1{ color:#F36F21; font-size:33px; padding-top:20px; padding-left:0px; font-family:My_Font;}
 .contact_note div{ width:245px; padding-top:30px; padding-left:0px;}
 .contact_note > div > h2{ font-size:17px; font-weight:100; font-family:My_Font; line-height:30px; text-align:left}
 .contact_form{ width:560px; float:right}
@@ -68,9 +68,9 @@
     font-size: 14px;
 }
 .w350{ width:350px;}
-.required{ color:#fe8a03}
-#btnSend{ padding:10px 20px; background:#fe8a03; border:none; color:#fff; text-transform:uppercase; font-size:16px; margin-top:20px; cursor:pointer }
-#btnReset{ padding:10px 20px; background:#fe8a03; border:none; color:#fff; text-transform:uppercase; font-size:16px;margin-top:20px;cursor:pointer }
+.required{ color:#F36F21}
+#btnSend{ padding:10px 20px; background:#F36F21; border:none; color:#fff; text-transform:uppercase; font-size:16px; margin-top:20px; cursor:pointer }
+#btnReset{ padding:10px 20px; background:#F36F21; border:none; color:#fff; text-transform:uppercase; font-size:16px;margin-top:20px;cursor:pointer }
 .btn_loading{ width:300px; height:300px; background:url(images/LoadingPage.gif) 50px 50px no-repeat}
 #siimage{ position:absolute; }
 .maincontent {

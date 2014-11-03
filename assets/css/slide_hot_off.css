@@ -5,7 +5,7 @@
     margin-bottom: 15px;
 }
 .hotoffers h3 {
-    background: none repeat scroll 0 0 #fe8a03;padding: 12px;
+    background: none repeat scroll 0 0 #F36F21;padding: 12px;
 
 }
 .hotoffers h3 {
@@ -13,7 +13,7 @@
     font-size: 16px;
     font-family:My_Font;
 
-    text-fe8a03form: uppercase;
+    text-F36F21form: uppercase;
 }
 #carousel .offer_item {
     width:248px;
@@ -28,11 +28,11 @@
 .hotoffers .item_right { width:230px; height:73px; padding:0px 9px 5px; }
 
 .offer_info{ float:left; height:73px; width:230px;}
-.offer_info h4{ font-weight:bold; text-align:left; padding-left:5px; text-fe8a03form:uppercase }
-.offer_item h4{ font-weight:bold; text-align:left; padding-left:5px; text-fe8a03form:uppercase; padding-top: 5px; }
-.offer_item h2{ font-weight:bold; text-align:left; padding-left:5px; text-fe8a03form:uppercase }
+.offer_info h4{ font-weight:bold; text-align:left; padding-left:5px; text-F36F21form:uppercase }
+.offer_item h4{ font-weight:bold; text-align:left; padding-left:5px; text-F36F21form:uppercase; padding-top: 5px; }
+.offer_item h2{ font-weight:bold; text-align:left; padding-left:5px; text-F36F21form:uppercase }
 .offer_item p{ padding:5px;  }
-.offer_item a{text-align:left !important; color:#fe8a03}
+.offer_item a{text-align:left !important; color:#F36F21}
 .hotoffers .sale_price{
     background:url(images/icon_hot_offer.png) 0 0 no-repeat;
     width:90px;
@@ -74,7 +74,7 @@ a.old_price {
 }
 a.new_price {
     font-size: 16px;
-    color: #fe8a03;
+    color: #F36F21;
 }
 .offer_item div.product_name {
     height: 42px !important;
@@ -93,7 +93,7 @@ a.new_price {
 }
 .offer_item:hover .view_btn {
     visibility: visible;
-    -webkit-fe8a03ition: visibility 0.5s;  /* For Safari 3.1 to 6.0 */
-    fe8a03ition: visibility 0.5s;
+    -webkit-F36F21ition: visibility 0.5s;  /* For Safari 3.1 to 6.0 */
+    F36F21ition: visibility 0.5s;
 }
 /*promotion*/

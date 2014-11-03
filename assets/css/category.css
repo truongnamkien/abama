@@ -217,12 +217,12 @@
 .listproduct .item div.pname {
     text-align:left;
     padding:0 10px;
-    color:#fe8a03;
+    color:#F36F21;
     font-weight:bold;
     text-transform:uppercase;
 }
 .listproduct .item div.pdesc{
-    color:#fe8a03;
+    color:#F36F21;
     padding: 0 10px;
 }
 .listproduct .item div.more {
@@ -413,7 +413,7 @@
 }
 .sale_price a.new_price {
     font-size: 20px;
-    color: #fe8a03;
+    color: #F36F21;
 }
 #product_list div.product_name {
     height: 36px;
@@ -433,6 +433,6 @@
 }
 #product_list .item:hover .view_btn {
     visibility: visible;
-    -webkit-fe8a03ition: visibility 0.5s;  /* For Safari 3.1 to 6.0 */
-    fe8a03ition: visibility 0.5s;
+    -webkit-F36F21ition: visibility 0.5s;  /* For Safari 3.1 to 6.0 */
+    F36F21ition: visibility 0.5s;
 }

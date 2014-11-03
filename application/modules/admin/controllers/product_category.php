@@ -274,7 +274,7 @@ class Product_Category extends MY_Inner_Admin_Controller {
 
     private function _color_picker() {
         $data = array(
-            'default_color' => 'fe8a03'
+            'default_color' => 'F36F21'
         );
         return $this->load->view('frm_color_picker', $data, TRUE);
     }

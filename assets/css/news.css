@@ -18,7 +18,7 @@
     text-align:justify;
 }
 .new_detail h1 {
-    color: #fe8a03;
+    color: #F36F21;
     font-size: 20px;
     font-weight: bold;
     line-height: 28px;
@@ -32,7 +32,7 @@
     float:left;
     overflow:hidden;	
     border:1px solid #CCC;
-    background:#fe8a03;
+    background:#F36F21;
     color:#FFF;
 }
 .news_l div {
@@ -91,7 +91,7 @@
     width: 286px;
 }
 .news_r .r1 .ctdiv a {
-    color: #fe8a03;
+    color: #F36F21;
     font-size: 22px;
     font-weight: bold;
     line-height: 29px;
@@ -135,7 +135,7 @@
 }
 .icon_detail{ padding:2px 0px 2px 8px; width:7px; height:7px;}
 .news_r .r2 .ctdiv a {
-    color: #fe8a03;
+    color: #F36F21;
     font-size: 22px;
     font-weight: bold;
     line-height: 29px;
@@ -190,7 +190,7 @@
     border:1px solid #ccc;
 }
 .grid_3 .wrap .col a {
-    color: #fe8a03;
+    color: #F36F21;
     display: block;
     font-size: 22px;
     font-weight: bold;
@@ -234,7 +234,7 @@
     width:360px;
 }
 .grid_4 .expand a {
-    color: #fe8a03;
+    color: #F36F21;
     display: block;
     font-size: 24px;
     font-weight: bold;
@@ -249,7 +249,7 @@
     padding: 12px 0;
 }
 .grid_4 .expand .more span {
-    background: none repeat scroll 0 0 #fe8a03;
+    background: none repeat scroll 0 0 #F36F21;
     border-radius: 4px;
     color: #FFFFFF;
     font-weight: bold;
@@ -267,7 +267,7 @@
     padding:15px;
 }
 .news_detail .newsl a {
-    color: #fe8a03;
+    color: #F36F21;
     display: block;
     font-size: 24px;
     font-weight: bold;
@@ -369,10 +369,10 @@
 }
 
 .ct_news a {
-    color: #fe8a03;
+    color: #F36F21;
 }
 .ct_news a:hover {
-    color: #fe8a03;
+    color: #F36F21;
 }
 
 .ct_news ul, .ct_news ol, .ct_news p { margin-bottom: 20px;}

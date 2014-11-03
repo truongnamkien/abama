@@ -10,7 +10,7 @@
             <div style="margin-top: 0px;">
                 <div class="header_face"><?php echo lang('static_content_home_connect_us'); ?></div>
                 <div class="face_text">
-                    <p><?php echo lang('static_content_home_connect_us_follow', '', '<a href="' . $support . '" target="_blank" style="color: #fe8a03;" title="' . PAGE_TITLE . '">' . PAGE_TITLE . '</a>'); ?></p>
+                    <p><?php echo lang('static_content_home_connect_us_follow', '', '<a href="' . $support . '" target="_blank" style="color: #F36F21;" title="' . PAGE_TITLE . '">' . PAGE_TITLE . '</a>'); ?></p>
                     <div class="fb-like-box mt20" data-href="<?php echo $support; ?>" data-width="440" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
                 </div>
             </div> 
