@@ -29,5 +29,5 @@
         });
     </script>
 <?php else: ?>
-    <div class="fb-like-box" data-href="<?php echo $support; ?>" data-width="300" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+    <div class="fb-like-box" data-href="<?php echo $support; ?>" data-width="250" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
 <?php endif; ?>

@@ -4,17 +4,27 @@
 <?php echo Modules::run('category/_pagelet_category_list'); ?>
 
 <div class="product_category">
-    <?php echo Modules::run('product/_pagelet_hot_products'); ?>
-</div>
+    <div class="w250">
+        <?php echo Modules::run('product/_pagelet_hot_products'); ?>
 
-<div class="w_home mb20">
-    <?php echo Modules::run('category/_pagelet_category_list', 'bottom'); ?>
-
-    <div class="w300">
-    <?php echo Modules::run('home/_pagelet_sub_banner', 'home_right_2'); ?>
-    <?php echo Modules::run('home/_pagelet_sub_banner', 'home_right_3'); ?>
         <?php echo Modules::run('navigator/_pagelet_connect', 'home'); ?>
-    </div>        
+    </div>
+
+    <div class="w_category_products">
+        <div class="hotoffers">
+            <h3>
+                <?php echo lang('product_best_seller'); ?>
+            </h3>
+        </div>
+        <div class="clear"></div>
+
+        <div class="listproduct">
+            <div class="product" id="product_list">
+                <?php echo Modules::run('category/_pagelet_best_seller'); ?>
+            </div>
+        </div>
+    </div>
+
 </div>
 
 <?php if (isset($notice) && !empty($notice)): ?>

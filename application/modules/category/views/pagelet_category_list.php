@@ -51,17 +51,13 @@
         });
     </script>
 
-    <?php if ($this->router->fetch_class() == "home"): ?>
-        <?php echo Modules::run('home/_pagelet_banner'); ?>
-    <?php else: ?>
-        <div class="banner_top">
-            <div class="catbn">
-                <?php echo Modules::run('home/_pagelet_sub_banner', 'product'); ?>
-            </div>
-
-            <?php echo Modules::run('branch/_pagelet_branch_list'); ?>
+    <div class="banner_top">
+        <div class="catbn">
+            <?php echo Modules::run('home/_pagelet_sub_banner', 'product'); ?>
         </div>
-    <?php endif; ?>
+
+        <?php echo Modules::run('branch/_pagelet_branch_list'); ?>
+    </div>
 <?php else: ?>
     <div class="listcategory">
         <?php foreach ($category_list as $index => $category): ?>

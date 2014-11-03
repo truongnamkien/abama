@@ -46,9 +46,6 @@ $lang['static_content_banner_home'] = 'Banner Trang chủ';
 $lang['static_content_banner_product'] = 'Banner trang Sản phẩm';
 $lang['static_content_banner_contact'] = 'Banner trang Liên hệ';
 $lang['static_content_banner_cart'] = 'Banner trang Giỏ hàng';
-$lang['static_content_banner_home_right_1'] = 'Banner trang chủ (bên phải 1)';
-$lang['static_content_banner_home_right_2'] = 'Banner trang chủ (bên phải 2)';
-$lang['static_content_banner_home_right_3'] = 'Banner trang chủ (bên phải 3)';
 
 $lang['static_content_content_title'] = 'Nội dung';
 

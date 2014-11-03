@@ -52,6 +52,7 @@ class Product extends MY_Inner_Admin_Controller {
             'price_off' => $this->input->post('price_off'),
             'product_category_id' => $this->input->post('product_category_id'),
             'hot' => STATUS_INACTIVE,
+            'best_seller' => STATUS_INACTIVE,
             'sold_out' => STATUS_INACTIVE,
         ));
         if ($id !== FALSE) {
@@ -72,6 +73,7 @@ class Product extends MY_Inner_Admin_Controller {
             'photo' => array('input' => 'none'),
             'product_category_id' => array('input' => 'dropdown', 'options' => $product_categories),
             'hot' => array('input' => 'checkbox_toggle'),
+            'best_seller' => array('input' => 'checkbox_toggle'),
             'sold_out' => array('input' => 'checkbox_toggle'),
         );
         $fields = $this->get_multi_lang_fields(array('description'));
@@ -191,6 +193,11 @@ class Product extends MY_Inner_Admin_Controller {
             $params['sold_out'] = STATUS_ACTIVE;
         } else {
             $params['sold_out'] = STATUS_INACTIVE;
+        }
+        if (isset($params['best_seller'])) {
+            $params['best_seller'] = STATUS_ACTIVE;
+        } else {
+            $params['best_seller'] = STATUS_INACTIVE;
         }
 
         $product_photos = array();

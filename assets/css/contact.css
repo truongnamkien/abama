@@ -1,6 +1,6 @@
 .contact_us{margin:20px auto 0px; background:#fff; padding:0px 20px 0px 0px; width:1150px; text-align:justify; }
 /*************** contact *******************/
-.contact_info{ background:#e1e1e1; width:100%; height:220px; margin:0 auto; clear:both}
+.contact_info{ background:#e1e1e1; width:100%; height:220px; margin:20px auto 0; clear:both}
 .contact_info h1{ text-align:center; text-transform:uppercase; font-size:24px; color:#fff; padding-top:30px; font-weight:800}
 .contact_info .info { float:left; width:31%; padding:20px 10px 10px; height:190px; text-align: center; }
 .contact_info .info p, .contact_info .info a{ color:#4e4e4e; font-family:My_Font}
