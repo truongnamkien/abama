@@ -51,6 +51,10 @@ class Category extends MY_Outer_Controller {
 				}
 			}
 		}
+        function compare_display_order($p1, $p2) {
+            return $p1['display_order'] < $p2['display_order'];
+        }
+        usort($product_list, 'compare_display_order');
 
 		$product_list = array_slice($product_list, $offset * $this->product_per_page, $this->product_per_page);
 		$data = array(
