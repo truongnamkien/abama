@@ -76,7 +76,7 @@ a:hover {
 a.logo {
     display: block;
     padding-top: 12px;
-    margin-left: 100px;
+    margin-left: 0;
 }
 .language {
     display: block;
